@@ -3,14 +3,14 @@
   sections:
     - file: Python_Introduction
     - file: Numpy_Introduction
-- file: Linear_Systems
-  sections:
-    - file: Gaussian_Elimination
-    - file: Matrix_Algebra
-    - file: Solving_Systems    
-    - file: Inverse_Matrices
-    - file: LU_Factorization
-    - file: Applications
+# - file: Linear_Systems
+#   sections:
+#     - file: Gaussian_Elimination
+#     - file: Matrix_Algebra
+#     - file: Solving_Systems    
+#     - file: Inverse_Matrices
+#     - file: LU_Factorization
+#     - file: Applications
 # - file: Vector_Spaces
 #   sections:
 #     - file: General_Linear_Systems
