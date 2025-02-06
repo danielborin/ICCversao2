@@ -1,14 +1,14 @@
 # Book settings
-title: Jupyter Guide to Linear Algebra
-author: Ben Vanderlei
-logo: reflection_logo.png
+title: Introdução à Computação Científica
+author: Daniel Borin
+logo: Cover_ICC.png
 
 latex:
   latex_documents:
     targetname: book.tex
 
 repository:
-  url: https://github.com/bvanderlei/jupyter-guide-to-linear-algebra
+  url: https://github.com/danielborin/ICCversao2
   branch: main
 
 launch_buttons:
