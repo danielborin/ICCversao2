@@ -3,22 +3,22 @@
   sections:
     - file: Python_Introduction
     - file: Numpy_Introduction
-# - file: Linear_Systems
-#   sections:
-#     - file: Gaussian_Elimination
-#     - file: Matrix_Algebra
-#     - file: Solving_Systems    
-#     - file: Inverse_Matrices
-#     - file: LU_Factorization
-#     - file: Applications
-# - file: Vector_Spaces
-#   sections:
-#     - file: General_Linear_Systems
-#     - file: Linear_Combinations
-#     - file: Linear_Independence
-#     - file: Bases
-#     - file: Vector_Space_Examples
-#     - file: Applications_VS
+- file: Linear_Systems
+  sections:
+    - file: Gaussian_Elimination
+    - file: Matrix_Algebra
+    - file: Solving_Systems    
+    - file: Inverse_Matrices
+    - file: LU_Factorization
+    - file: Applications
+- file: Vector_Spaces
+  sections:
+    - file: General_Linear_Systems
+    - file: Linear_Combinations
+    - file: Linear_Independence
+    - file: Bases
+    - file: Vector_Space_Examples
+    - file: Applications_VS
 # - file: Linear_Transformations
 #   sections:
 #     - file: Matrix_Representations
